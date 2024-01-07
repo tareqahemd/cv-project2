@@ -1,0 +1,137 @@
+    * {
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+    
+    .div-clear {
+        clear: both;
+    }
+    
+    .common-hr {
+        border: solid teal 1px;
+        border-bottom: navajowhite;
+        width: 100%;
+        margin: 20px auto;
+    }
+    /* header start here */
+    
+    .name-h1 {
+        text-align: center;
+        color: green;
+    }
+    
+    body {
+        background-color: gray;
+    }
+    
+    hr {
+        border: solid black 3px;
+        width: 100%;
+        margin: 25px auto;
+        border-bottom: none;
+    }
+    
+    .cv-image img {
+        border: 3px solid red;
+        border-radius: 50%;
+        width: 15%;
+        height: 120px;
+        float: left;
+        margin: 15px 0 15px 10px;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #1199e1;
+        padding: 10px;
+    }
+    
+    .web-s {
+        color: aqua;
+    }
+    
+    .header-contact {
+        float: right;
+        padding: 30px;
+    }
+    
+    .header-contact:hover {
+        color: white;
+        background-color: green;
+    }
+    
+    .header-p {
+        color: brown;
+        text-decoration: underline;
+    }
+    
+    .header-p p,
+    a {
+        text-decoration: none;
+        color: blue;
+    }
+    
+    .header-p p,
+    a:hover {
+        text-decoration: underline;
+        color: black;
+        background-color: yellow;
+    }
+    
+    .header-span:hover {
+        background-color: cadetblue;
+        color: black;
+    }
+    
+    .work-section {}
+    
+    .left-div {
+        width: 30%;
+        float: left;
+    }
+    
+    .right-div {
+        width: 70%;
+        float: right;
+        color: aqua;
+    }
+    
+    .right-div:hover {
+        color: white;
+        background-color: hotpink;
+    }
+    
+    .my-skill {}
+    
+    .link-a,
+    a {
+        display: block;
+    }
+    /* header ends here */
+    
+    .social-media {
+        background-color: aqua;
+        padding: 60px;
+        text-align: center;
+    }
+    
+    .btn {
+        border: 1px;
+        padding: 25px;
+        border-radius: 5px;
+    }
+    
+    .bottom-container {
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .bottom-container p {
+        margin-top: 20px;
+        color: white;
+    }
